@@ -1,0 +1,14 @@
+build/
+bin/
+lib/
+.vscode/
+data/datasets/*/rgb/*
+data/datasets/*/superpoint/*
+data/datasets/*/lf_net/*
+data/datasets/my_real_dataset/
+data/datasets/my_synthetic_dataset/
+TODO.txt
+results/*/*
+plots/images/*
+plots/videos/*
+plots/*.asv
